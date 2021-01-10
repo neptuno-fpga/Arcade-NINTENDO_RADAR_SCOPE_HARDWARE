@@ -1,0 +1,10 @@
+PLL_Name	pll:pll|altpll:altpll_component|pll_altpll:auto_generated|pll1
+PLLJITTER	NA
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	pll_vga:pll_vga|altpll:altpll_component|pll_vga_altpll:auto_generated|pll1
+PLLJITTER	34
+PLLSPEmax	84
+PLLSPEmin	-53
+
